@@ -1,8 +1,10 @@
 COMP 472 PROJECT
 
-The models of this project were trained on Google colab. Therefore it is strongly recommended to run the notebooks on colab or Jupyter.
+The models of this project were trained on Google colab. Therefore it is strongly recommended to run the notebooks on colab or Jupyter. The libraries
 
 Models:
+The Models are too big to upload on Github. Please find the models here on drive: https://drive.google.com/drive/folders/1q1_0NarBIEW8wR-2UbezJEwjS3mhJW11?usp=drive_link
+
 MLP- The base model MLP
 MLP_V1 = MLP model with extra layers
 MLP_V2= MLP model with less layers
