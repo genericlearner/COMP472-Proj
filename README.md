@@ -5,7 +5,7 @@ This project involves training and evaluating multiple models, including Decisio
 
 Models Overview
 The trained models are too large to upload directly to GitHub. You can find all saved models on Google Drive:
-Google Drive Link: https://drive.google.com/drive/folders/1q1_0NarBIEW8wR-2UbezJEwjS3mhJW11?usp=drive_link
+Google Drive Link: [https://drive.google.com/drive/folders/1q1_0NarBIEW8wR-2UbezJEwjS3mhJW11?usp=drive_link](https://drive.google.com/drive/folders/1q1_0NarBIEW8wR-2UbezJEwjS3mhJW11?usp=sharing)
 
 Saved Models:
 Naive Bayes:
