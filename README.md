@@ -5,6 +5,18 @@ The models of this project were trained on Google colab. Therefore it is strongl
 Models:
 The Models are too big to upload on Github. Please find the models here on drive: https://drive.google.com/drive/folders/1q1_0NarBIEW8wR-2UbezJEwjS3mhJW11?usp=drive_link
 
+DIRECTIONS TO RUN SAVED MODELS FOR DECISION TREES AND NAIVE BAYES: Import the Library pickle and run this command:
+with open('model.pkl', 'rb') as f:
+    model = pickle.load(f)
+
+Model Files:
+sklearn_nb = Sickit learn naive bayes model saved with pickle.
+manual_nb = Manual implementation of naive bayes model saved with pickle.
+
+
+DIRECTIONS TO RUN SAVED MODELS FOR DECISION TREES AND NAIVE BAYES: The MLP and CNN models are saved with torch. Therefore, to run the model, run this code:
+model.load_state_dict(torch.load('simple_nn_model.pth'))
+
 MLP- The base model MLP
 MLP_V1 = MLP model with extra layers
 MLP_V2= MLP model with less layers
