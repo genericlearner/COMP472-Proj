@@ -1,4 +1,6 @@
-OMP 472 PROJECT
+Student names: Zaouhair Chich Katana 40263998 and Mohammed Umaruddin 40204345
+
+COMP 472 PROJECT
 This project involves training and evaluating multiple models, including Decision Trees, Naive Bayes, Multi-Layer Perceptrons (MLPs), and Convolutional Neural Networks (CNNs). The models were trained on Google Colab. Therefore, it is strongly recommended to run the notebooks on Google Colab or Jupyter Notebook.
 
 Models Overview
